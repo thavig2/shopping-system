@@ -1,0 +1,101 @@
+ID,Type,Name,Price
+1,Clothing,Men's Casual Shirt,24.99
+2,Books,The Great Gatsby,10.50
+3,Electronics,Phone Speaker,49.99
+4,Clothing,Turtleneck Sweater,40.99
+5,Books,Harry Potter and the Sorcerer's Stone,15.00
+6,Electronics,Smart LED TV,499.99
+7,Clothing,Men's Sports Jacket,79.99
+8,Books,To Kill a Mockingbird,12.99
+9,Electronics,Smartphone,599.99
+10,Clothing,Women's Summer Dress,29.99
+11,Books,1984,9.99
+12,Electronics,Laptop,899.99
+13,Clothing,Men's Formal Shirt,39.99
+14,Books,Pride and Prejudice,7.99
+15,Electronics,Wireless Earbuds,79.99
+16,Clothing,Women's Sweater,27.99
+17,Books,The Catcher in the Rye,11.50
+18,Electronics,Tablet,299.99
+19,Clothing,Men's Trousers,44.99
+20,Books,Lord of the Rings Trilogy,25.00
+21,Electronics,Digital Camera,349.99
+22,Clothing,Women's Winter Coat,89.99
+23,Books,The Hobbit,8.99
+24,Electronics,Gaming Console,399.99
+25,Clothing,Men's Polo Shirt,19.99
+26,Books,Romeo and Juliet,6.50
+27,Electronics,Smart Watch,199.99
+28,Clothing,Women's Blouse,22.99
+29,Books,The Da Vinci Code,14.99
+30,Electronics,Drone,299.99
+31,Clothing,Men's Hoodie,29.99
+32,Books,Fahrenheit 451,10.99
+33,Electronics,Bluetooth Speaker,59.99
+34,Clothing,Women's Skirt,18.99
+35,Books,The Alchemist,11.50
+36,Electronics,Smart Thermostat,129.99
+37,Clothing,Men's Swim Shorts,14.99
+38,Books,Jane Eyre,7.50
+39,Electronics,Portable Charger,29.99
+40,Clothing,Women's Leggings,12.99
+41,Books,Wuthering Heights,8.50
+42,Electronics,VR Headset,199.99
+43,Clothing,Men's Dress Shoes,59.99
+44,Books,The Picture of Dorian Gray,9.99
+45,Electronics,Home Security Camera System,249.99
+46,Clothing,Women's Cardigan,24.99
+47,Books,Brave New World,12.50
+48,Electronics,Wireless Mouse,19.99
+49,Clothing,Men's Sweatshirt,21.99
+50,Books,The Odyssey,10.99
+51,Electronics,Wireless Router,79.99
+52,Clothing,Women's T-shirt,9.99
+53,Books,Gone with the Wind,7.99
+54,Electronics,Smart Doorbell,149.99
+55,Clothing,Men's Tie,14.99
+56,Books,The Chronicles of Narnia,19.99
+57,Electronics,Smart Scale,49.99
+58,Clothing,Women's Jeans,34.99
+59,Books,The Candid Life of Meena Dave, 19.99
+60,Electronics,Wireless Keyboard,29.99
+61,Clothing,Men's Shorts,17.99
+62,Books,Moby-Dick,8.50
+63,Electronics,Fitness Tracker,99.99
+64,Clothing,Women's Dress,39.99
+65,Books,The Brothers Karamazov,12.99
+66,Electronics,Bluetooth Headset,39.99
+67,Clothing,Men's Socks,6.99
+68,Books,Crime and Punishment,9.99
+69,Electronics,External Hard Drive,79.99
+70,Clothing,Women's Hoodie,24.99
+71,Books,War and Peace,15.50
+72,Electronics,Smart Door Lock,179.99
+73,Clothing,Men's Jacket,59.99
+74,Books,The Count of Monte Cristo,10.99
+75,Electronics,Smart Plug,19.99
+76,Clothing,Women's Scarf,11.99
+77,Books,The Bell Jar,8.50
+78,Electronics,Bluetooth Car Adapter,29.99
+79,Clothing,Men's Belt,12.99
+80,Books,The Sun Also Rises,9.99
+81,Electronics,Wireless Charging Pad,39.99
+82,Clothing,Women's Coat,79.99
+83,Books,The Road,11.50
+84,Electronics,Smart Speaker,99.99
+85,Clothing,Men's Hat,9.99
+86,Books,One Hundred Years of Solitude,13.99
+87,Electronics,Smart Bulb,14.99
+88,Clothing,Women's Boots,49.99
+89,Books,Anna Karenina,8.99
+90,Electronics,Wireless Charging Stand,49.99
+91,Clothing,Men's Gloves,7.99
+92,Books,The Grapes of Wrath,9.50
+93,Electronics,Smart Plug Strip,49.99
+94,Clothing,Women's Gloves,6.99
+95,Books,The Scarlet Letter,7.50
+96,Electronics,Smart Coffee Maker,89.99
+97,Clothing,Men's Wallet,19.99
+98,Books,The Old Man and the Sea,6.99
+99,Electronics,Smart Mirror,199.99
+100,Clothing,Women's Sunglasses,29.99
